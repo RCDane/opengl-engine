@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Repos/opengl/glfw-3.3/tests/CMakeLists.txt
+  monitors.c
+  getopt.c
+  glad_gl.c
+  Generating Code...
+  monitors.vcxproj -> C:\Repos\opengl\build\tests\Debug\monitors.exe

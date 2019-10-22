@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Repos/opengl/glfw-3.3/tests/CMakeLists.txt
+  vulkan.c
+  glad_vulkan.c
+  Generating Code...
+  vulkan.vcxproj -> C:\Repos\opengl\build\tests\Release\vulkan.exe

@@ -1,0 +1,7 @@
+﻿  Main.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+Main.obj : error LNK2019: unresolved external symbol gladLoadGLLoader referenced in function main
+Main.obj : error LNK2001: unresolved external symbol glad_glClear
+Main.obj : error LNK2001: unresolved external symbol glad_glClearColor
+Main.obj : error LNK2001: unresolved external symbol glad_glViewport
+C:\Repos\opengl\opengltest\x64\Debug\opengltest.exe : fatal error LNK1120: 4 unresolved externals
